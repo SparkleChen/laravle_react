@@ -1,0 +1,14 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 8,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true,
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "rules": {
+        "semi": ["error","never"],
+        "no-multi-spaces": "error"
+    }
+}
